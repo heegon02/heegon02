@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://blog.naver.com/heegon_](https://blog.naver.com/heegon_)
 
-- 📫 How to reach me **gmlrhs0131@gmail.com**
+- 📫 How to reach me **gmlrhs0131@gmail.com** or **http://instagram.com/heegonkim_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
