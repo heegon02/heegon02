@@ -1,11 +1,10 @@
-<h1 align="left">Hi 👋, I'm huigon</h1>
-<h2 align="left">A software engineering student from South Korea</h2>
+<h1 align="center">Hi 👋, I'm huigon</h1>
+<h2 align="center">A software engineering student from South Korea</h2>
 
-- 📝 I regularly write articles on [https://blog.naver.com/heegon_](https://blog.naver.com/heegon_)
+## 💬 Contact
+**gmlrhs0131@gmail.com**
 
-- 📫 How to reach me **gmlrhs0131@gmail.com** or **http://instagram.com/heegonkim_**
-
-<h3 align="left">Connect with me:</h3>
+## ✔ Find me here:</h3>
 <p align="left">
 <a href="https://instagram.com/heegonkim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heegonkim_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/heegonkim9092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="heegonkim9092" height="30" width="40" /></a>
