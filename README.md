@@ -5,6 +5,9 @@
 
 - 📫 How to reach me **gmlrhs0131@gmail.com**
 
+<h3 align="left">Drop Me a line:</h3>
+<p align="left"> **gmlrhs0131@gmail.com**
+
 <h3 align="left">Find me here:</h3>
 <p align="left">
 <a href="https://instagram.com/heegonkim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heegonkim_" height="30" width="40" /></a>
