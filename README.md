@@ -5,8 +5,9 @@
 
 - 📫 How to reach me **gmlrhs0131@gmail.com**
 
-<h3 align="left">Drop Me a line:</h3>
-<p align="left"> **gmlrhs0131@gmail.com**
+- ⭐ find me here: [https://instagram.com/heegonkim_](https://instagram.com/heegonkim_)
+
+- ⭐ find me here: [https://www.youtube.com/@heegonkim9092](https://www.youtube.com/@heegonkim9092)
 
 <h3 align="left">Find me here:</h3>
 <p align="left">
