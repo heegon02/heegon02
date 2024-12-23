@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm huigon</h1>
+<h1 align="center">Hi 👋, I'm heegon</h1>
 <h4 align="center">A software engineering student from South Korea</h4>
 
 - 📝 I regularly write articles on [https://blog.naver.com/heegon_](https://blog.naver.com/heegon_)
