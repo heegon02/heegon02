@@ -9,4 +9,4 @@
 - system trading (about stock market and ETF market)
 
 ### Git Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huigon-kim&show_icons=true&locale=en&layout=compact" alt="huigon-kim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huigon-kim&show_icons=true&locale=en&" alt="huigon-kim" /></p>
