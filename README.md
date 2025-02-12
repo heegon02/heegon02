@@ -1,12 +1,19 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuigon-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-### About me
-- Software Engineering Student
+### 🙋‍♂️ About me
+- *Software Engineering Student* (2021.03 ~ )
+- mainly use **python**
+- interested in **Machine Learning** and **System Trading**
 
-### Interest
-- Machine Learning
-- python
-- system trading (about stock market and ETF market)
+### 📋 Experience & Team Projects
+- **Lab 206** - Web, front-end (2024.03 ~ 2024.05)
 
-### Git Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huigon-kim&show_icons=true&locale=en&" alt="huigon-kim" /></p>
+### 💻 Personal Development Project
+- system trading program on stock market (2025.01 ~ )
+- KeyLangIndicator (2025.02 ~ )
+
+---
+### 📊 GitHub Stats
+![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heegon02&theme=vue)
+![heegon02 stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heegon02&theme=vue)
+![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heegon02&theme=vue&utcOffset=9)
