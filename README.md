@@ -8,7 +8,7 @@
 ### 📋 Experience & Team Projects
 - **Lab 206** - Web, front-end (2024.03 ~ 2024.05)
 
-### 💻 Personal Development Project
+### 💻 Personal Development Projects
 - system trading program on stock market (2025.01 ~ )
 - KeyLangIndicator (2025.02 ~ )
 
