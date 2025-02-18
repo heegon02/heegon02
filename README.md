@@ -2,7 +2,7 @@
 
 ### 🙋‍♂️ About me
 - *Software Engineering Student* (2021.03 ~ )
-- **Interests** - Python, Machine Learning
+- Interests - Python, Machine Learning
 
 ### 📋 Experience & Team Projects
 - **Lab 206** - 대학 연구실 학부연구생 / Web, front-end / 2024.03 ~ 2024.05
