@@ -2,9 +2,10 @@
 
 ### 🙋‍♂️ About me
 - *Software Engineering Student* (2021.03 ~ )
+- **Interests** - Python, Machine Learning
 
 ### 📋 Experience & Team Projects
-- **Lab 206** - Web, front-end (2024.03 ~ 2024.05)
+- **Lab 206** - 대학 연구실 학부연구생 / Web, front-end / 2024.03 ~ 2024.05
 
 ### 💻 Personal Development Projects
 - System Trading Program on stock market (2025.01 ~ )  [click here](https://github.com/heegon02/SystemTrading)
@@ -13,6 +14,6 @@
 
 ---
 ### 📊 GitHub Stats
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heegon02&theme=vue)
-![heegon02 stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heegon02&theme=vue)
-![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heegon02&theme=vue&utcOffset=9)
+![github-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heegon02&theme=vue)
+![heegon02 stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heegon02&theme=vue)
+![Commit time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heegon02&theme=vue&utcOffset=9)
