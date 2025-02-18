@@ -2,8 +2,6 @@
 
 ### 🙋‍♂️ About me
 - *Software Engineering Student* (2021.03 ~ )
-- mainly use **python**
-- interested in **Machine Learning** and **System Trading**
 
 ### 📋 Experience & Team Projects
 - **Lab 206** - Web, front-end (2024.03 ~ 2024.05)
