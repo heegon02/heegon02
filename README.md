@@ -8,8 +8,8 @@
 - **Lab 206** - 대학 연구실 학부연구생 / Web, front-end / 2024.03 ~ 2024.05
 
 ### 💻 Personal Development Projects
-- System Trading Program on stock market (2025.01 ~ )  [click here](https://github.com/heegon02/SystemTrading)
-- KeyLangIndicator (2025.02 ~ ) [click here](https://github.com/heegon02/HanEngStatus)
+- System Trading Program on stock market (2025.01 ~ )  [SystemTrading](https://github.com/heegon02/SystemTrading)
+- KeyLangIndicator (2025.02 ~ ) [HanEngStatus](https://github.com/heegon02/HanEngStatus)
 
 
 ---
