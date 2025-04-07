@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuigon-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:20883d,100:dafae2&height=300&text=HEEGON's%20github&textBg=false&fontSize=63&fontAlignY=42&section=header&reversal=false&fontColor=ffffff)
 
 ### 🙋‍♂️ About me
 <a href="https://florentine-march-87e.notion.site/19ead81f328d80cebb2ee924f4517800">
