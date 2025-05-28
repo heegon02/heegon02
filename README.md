@@ -1,4 +1,6 @@
-### 🙋‍♂️ heegon's profile
-<a href="https://florentine-march-87e.notion.site/19ead81f328d80cebb2ee924f4517800">
-  <img src="https://img.shields.io/badge/heegon's%20profile-47766a?style=round-square&logo=data:image/png;base64,YOUR_BASE64_ENCODED_IMAGE" height="30">
-</a>
+# 김희곤
+
+> 국립한국교통대학교 소프트웨어학과에 재학 중입니다. <br>
+아직은 만든 프로젝트보다, 아이디어가 더 많은. <br>
+개발자 꿈나무입니다. <br>
+
