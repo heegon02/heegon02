@@ -1,7 +1,6 @@
 # 김희곤
 
-> 아직은 만든 프로젝트보다, 아이디어가 더 많은. <br>
-개발자 꿈나무입니다. <br>
+> 🖥️ 풀스택 개발자 꿈나무입니다. <br>
 
 [📜 김희곤 온라인 이력서](https://florentine-march-87e.notion.site/19ead81f328d80cebb2ee924f4517800) <br>
 [✍️ 이곳에서 개발 공부와 프로젝트에 대한 기록을 남깁니다.](https://velog.io/@heegonkim_/) <br>
