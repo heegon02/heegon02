@@ -16,3 +16,6 @@
  *기술 스택 : Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP* <br>
 
 ### 포트폴리오
+
+### 기술스택
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,js)](https://skillicons.dev)
