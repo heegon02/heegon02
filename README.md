@@ -15,9 +15,9 @@
  *2025.06.24 ~ 2026.01.30*  <br>
  *기술 스택 : Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP* <br>
 
-- [2025 디지털신기술 아이디어ㆍSW개발 공모전 | SW개발 부문 우수상](./docs/2025awards.md) <br>
-  *2025.10.02* <br>
-  *건설 현장 안전 교육 및 시험 웹 제작 | FE, 본선 발표용 PPT 제작 및 본선 발표 담당*
+- [2025 충청권 ICT IS : 디지털신기술 아이디어ㆍSW개발 공모전 | SW개발 부문 우수상](./docs/2025awards.md) <br>
+  *2025.10.14* <br>
+  *산재 사고율 감소를 위한 건설 현장 안전 교육 및 시험 웹 제작 | FE, 본선 발표용 PPT 제작 및 본선 발표 담당*
 
 ### 포트폴리오
 - [코코아톡 | 자바 기반 메신저 프로그램](https://velog.io/@heegonkim_/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%BD%94%EC%BD%94%EC%95%84%ED%86%A1) <br>
