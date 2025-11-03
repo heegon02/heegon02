@@ -12,7 +12,7 @@
 
 ### 대외활동
 - KDT 자바 풀스택 개발자 교육과정 <br>
- *2025.06.24 ~ 2026.01.30*  <br>
+ *2025.06.24 ~ 2026.01.31*  <br>
  *기술 스택 : Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP* <br>
 
 - [2025 충청권 ICT IS : 디지털신기술 아이디어ㆍSW개발 공모전 | SW개발 부문 우수상](./docs/2025awards.md) <br>
