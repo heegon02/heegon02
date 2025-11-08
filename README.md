@@ -1,5 +1,6 @@
 # 김희곤
 
+> 📍Cheongju, Republic of Korea <br>
 > 🖥️ 웹 풀스택 개발자 꿈나무입니다. <br>
 > [✍️ 블로그 : 이곳에서 개발 공부와 프로젝트에 대한 기록을 남깁니다.](https://velog.io/@heegonkim_/) <br>
 
