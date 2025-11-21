@@ -24,5 +24,8 @@
 - [코코아톡 | 자바 기반 메신저 프로그램](https://velog.io/@heegonkim_/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%BD%94%EC%BD%94%EC%95%84%ED%86%A1) <br>
 *기술 스택 : Java(언어), JavaSwing(GUI), Java Socket (통신)*
 
+- [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
+*기술 스택 : Spring(프레임워크), MySQL(DB), BootStrap(CSS)*
+
 ### 기술스택
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,figma,git,github)](https://skillicons.dev)
