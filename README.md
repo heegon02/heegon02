@@ -28,4 +28,4 @@
 *기술 스택 : Spring(프레임워크), MySQL(DB), BootStrap(CSS)*
 
 ### 기술스택
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,figma,git,github,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring,mysql,html,css,js,figma,git,github,markdown,notion)](https://skillicons.dev)
