@@ -21,11 +21,14 @@
   *산재 사고율 감소를 위한 건설 현장 안전 교육 및 시험 웹 제작 | FE, 본선 발표용 PPT 제작 및 본선 발표 담당*
 
 ### 포트폴리오
-- [코코아톡 | 자바 기반 메신저 프로그램](https://velog.io/@heegonkim_/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%BD%94%EC%BD%94%EC%95%84%ED%86%A1) <br>
-*기술 스택 : Java(언어), JavaSwing(GUI), Java Socket (통신)*
+- RunBoo | 런닝 앱 <br>
+*기술 스택 : ReactNative(FE), SpringBoot(BE), Supabase(DB)* <br>
 
 - [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
-*기술 스택 : Spring(프레임워크), MySQL(DB), BootStrap(CSS)*
+*기술 스택 : Spring(프레임워크), MySQL(DB), BootStrap(CSS)* <br>
+
+- [코코아톡 | 자바 기반 메신저 프로그램](https://velog.io/@heegonkim_/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%BD%94%EC%BD%94%EC%95%84%ED%86%A1) <br>
+*기술 스택 : Java(언어), JavaSwing(GUI), Java Socket (통신)* <br>
 
 ### 기술스택
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring,mysql,html,css,js,figma,git,github,markdown,notion)](https://skillicons.dev)
