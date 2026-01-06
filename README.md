@@ -31,4 +31,4 @@
 *기술 스택 : Java(언어), JavaSwing(GUI), Java Socket (통신)* <br>
 
 ### 기술스택
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,spring,mysql,html,css,js,figma,git,github,markdown,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github)](https://skillicons.dev)
