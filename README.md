@@ -16,7 +16,7 @@
  *2025.06.24 ~ 2026.01.31*  <br>
  *기술 스택 : Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP, Spring* <br>
 
-- [2025 충청권 ICT IS : 디지털신기술 아이디어ㆍSW개발 공모전 | SW개발 부문 우수상](https://velog.io/@heegonkim_/%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%8F%8C%EB%8B%A4%EB%A6%AC%ED%98%84%EC%9E%A5%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B6%A9%EC%B2%AD%EA%B6%8C-ICT%E3%86%8DIS-%EB%94%94%EC%A7%80%ED%84%B8-%EC%8B%A0%EA%B8%B0%EC%88%A0-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B0%9C%EB%B0%9C-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%9A%B0%EC%88%98%EC%83%81-%EC%88%98%EC%83%81) <br>
+- 2025 충청권 ICT IS : 디지털신기술 아이디어ㆍSW개발 공모전 | SW개발 부문 우수상<br>
   *2025.10.14* <br>
   *산재 사고율 감소를 위한 건설 현장 안전 교육 및 시험 웹 제작 | FE, 본선 발표용 PPT 제작 및 본선 발표 담당*
 
