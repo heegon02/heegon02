@@ -19,6 +19,9 @@
 *산재 사고율 감소를 위한 건설 현장 안전 교육 및 시험 웹 제작 | FE, 본선 발표용 PPT 제작 및 본선 발표 담당*
 
 ### 프로젝트
+- [RunBoo | 스프링과 리액트 네이티브로 구현한 런닝 앱](https://github.com/KKKIMDG/RunBoo) <br>
+*기술 스택 : ReactNative, Spring, Supabase*
+
 - [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
 *기술 스택 : Spring, MySQL* <br>
 
