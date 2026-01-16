@@ -20,11 +20,11 @@
 
 ### 프로젝트
 - [RunBoo | 스프링과 리액트 네이티브로 구현한 런닝 앱](https://github.com/KKKIMDG/RunBoo) <br>
-*FullStack | 고스트 런닝 모드, 런닝 기록 및 통계 페이지, 유저 활동 잔디 구현 담당* <br>
+*FullStack : 고스트 런닝 모드, 런닝 기록 및 통계 페이지, 유저 활동 잔디 구현 담당* <br>
 *기술 스택 : ReactNative, Spring, Supabase*
 
 - [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
-*FullStack | 회원가입, 로그인, 글 작성·수정·삭제, 댓글 작성·삭제 구현* <br>
+*FullStack : 회원가입, 로그인, 글 작성·수정·삭제, 댓글 작성·삭제 구현* <br>
 *기술 스택 : Spring, MySQL* <br>
 
 ### 기술스택
