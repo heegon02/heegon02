@@ -20,7 +20,7 @@
 
 ### 프로젝트
 - [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
-*기술 스택 : Spring(프레임워크), MySQL(DB), BootStrap(CSS)* <br>
+*기술 스택 : Spring, MySQL* <br>
 
 ### 기술스택
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github)](https://skillicons.dev)
