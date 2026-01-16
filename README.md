@@ -1,6 +1,5 @@
 # 김희곤
 
-> 📍Republic of Korea <br>
 > 🖥️ 웹 풀스택 개발자 꿈나무입니다. <br>
 > ✍️ [개발 공부 블로그](https://velog.io/@heegonkim_/) <br>
 
