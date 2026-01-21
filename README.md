@@ -23,7 +23,7 @@
 *FullStack : 고스트 런닝 모드, 런닝 기록 및 통계 페이지, 유저 활동 잔디 구현 담당* <br>
 *기술 스택 : ReactNative, Spring, Supabase*
 
-- [SpringMVCBoard | 스프링 기반 웹 게시판](https://github.com/heegon02/SpringMVCBoardStudy) <br>
+- [mini-community-service | 스프링 기반 웹 게시판](https://github.com/heegon02/mini-community-service) <br>
 *FullStack : 회원가입, 로그인, 글 작성·수정·삭제, 댓글 작성·삭제 구현* <br>
 *기술 스택 : Spring, MySQL* <br>
 
