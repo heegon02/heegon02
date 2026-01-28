@@ -6,7 +6,7 @@
 ### 교육
 - 국립한국교통대학교 컴퓨터소프트웨어학과 재학 중 <br>
 *2021.03 ~ ing* <br> 
-- KDT 자바 풀스택 개발자 교육과정 <br>
+- [KDT 자바 풀스택 개발자 교육과정](./KDT수료증.jpg) <br>
 *2025.06.24 ~ 2026.01.31* <br>
 *Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP, Spring* <br> 
 
