@@ -30,4 +30,6 @@
 🛠️ 기술 스택 : Spring, MySQL <br>
 
 ### 기술스택
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=java,spring,html,css,js,typescript,react)](https://skillicons.dev) <br>
+[![DB](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev) <br>
+[![DevOps](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev) <br>
