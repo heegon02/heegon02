@@ -11,6 +11,7 @@
 *Java, MySQL, HTML, CSS, JavaScript, Servlet & JSP, Spring* <br> 
 
 ### 자격증
+- 정보처리기사 필기 | *2026년 3월* <br>
 - **[SQLD](./SQLD.jpg)** | *한국데이터산업진흥원, 2025년 9월* <br>
 
 ### 공모전
@@ -32,4 +33,4 @@
 ### 기술스택
 [![Stack](https://skillicons.dev/icons?i=java,spring,html,css,js,typescript,react)](https://skillicons.dev) <br>
 [![DB](https://skillicons.dev/icons?i=mysql,supabase)](https://skillicons.dev) <br>
-[![DevOps](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev) <br>
+[![DevOps](https://skillicons.dev/icons?i=git,github,figma,notion)](https://skillicons.dev) <br>
